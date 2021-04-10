@@ -7,3 +7,4 @@
 	path = timeseriesdb
 	url = https://github.com/mbannert/timeseriesdb
 	shallow = true
+	registered = true
