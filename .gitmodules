@@ -8,3 +8,4 @@
 	url = https://github.com/mbannert/timeseriesdb
 	shallow = true
 	registered = true
+	oncran = true
