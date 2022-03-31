@@ -8,3 +8,8 @@
 	url = https://github.com/mbannert/timeseriesdb
 	shallow = true
 	registered = true
+[submodule "tstools"]
+	path = tstools
+	url = https://github.com/mbannert/tstools
+	shallow = true
+	registered = true

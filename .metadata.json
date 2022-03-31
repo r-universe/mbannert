@@ -2,5 +2,9 @@
   {
     "package": "timeseriesdb",
     "oncran": true
+  },
+  {
+    "package": "tstools",
+    "oncran": true
   }
 ]
